@@ -1,2 +1,19 @@
-# Pyhton-Learning-Journey
-My Python Learning Journey, Here I'm On a Mission To Learn &amp; Master Pyhton with All Basics And Some Libraries.
+# Python Learning Journey 🐍
+
+This repository documents my journey of learning Python.
+
+I am currently focusing on:
+- Python basics
+- Logic building
+- Problem solving
+- Small practice programs
+
+Programs included:
+- Calculator App
+- Even Odd Checker
+- Prime Number Checker
+- Pattern Programs
+- Table Generator
+- Loop Practice
+
+More projects will be added as I continue learning Python.
