@@ -1,17 +1,19 @@
-# Pyhton_Learning_Journey
-My Python Learning Journey, Here I'm On a Mission To Learn & Master Pyhton with All Basics And Some Libraries.
-Every Day New Learnings and Combining Them To make Weekly Small OR Big Projects.
+# Python Learning Journey 🐍
 
-Week-1: Basics Introductory Week.
- - Introductions to Functions Include Input/Print.
- - Datatypes (int,str,float and bool)
- - Arithmetic Operations. 
- - Conditions: Else-if , Nested-if  and Else-If Ladder.
+This repository documents my journey of learning Python.
 
-Week-2: Loops.
- - Basic Introduction to Loops And Range.
- - Pattern programs.
- - Nested Loops.
- - Break & Continue.
+I am currently focusing on:
+- Python basics
+- Logic building
+- Problem solving
+- Small practice programs
 
-Week-3: 
+Programs included:
+- Calculator App
+- Even Odd Checker
+- Prime Number Checker
+- Pattern Programs
+- Table Generator
+- Loop Practice
+
+More projects will be added as I continue learning Python.
